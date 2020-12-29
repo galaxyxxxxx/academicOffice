@@ -1,0 +1,2 @@
+# academicOffice
+基于北京工业大学经济与管理学院真实业务数据而设计的教材订购及教师绩效管理平台；北京工业大学星火基金项目；技术栈前端vue+element后端php+codeigniter
